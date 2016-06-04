@@ -23,6 +23,8 @@
 *.iml
 .idea
 
+/target
+
 # Sensitive or high-churn files:
 .idea/dataSources.ids
 .idea/dataSources.xml
